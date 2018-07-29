@@ -159,6 +159,7 @@ function orders(command, input) {
 }
 
 function spotifySearch(song) {
+    logger(`${song}`);
     var spotify = new Spotify({
         id: s.id,
         secret: s.secret

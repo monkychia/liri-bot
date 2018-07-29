@@ -1,524 +1,163 @@
-Fri, 27 Jul 2018 08:24:20 GMT: Command: sptopfy-this-song
-Fri, 27 Jul 2018 08:24:20 GMT: Please choose from one of the following commands: my-tweets, do-what-it-says, spotify-this-song, or movie-this.
-Fri, 27 Jul 2018 08:24:35 GMT: Command: spotify-this-song
-Fri, 27 Jul 2018 08:24:35 GMT: 
+Sun, 29 Jul 2018 05:10:03 GMT: Command: spotify-this-song
+Sun, 29 Jul 2018 05:10:03 GMT: the greatest love of all
+Sun, 29 Jul 2018 05:10:03 GMT: 
 ****************************
-Spotify! Search this => The Sign
-Fri, 27 Jul 2018 08:24:36 GMT: Spotify found 5 search results.
+Spotify! Search this => the greatest love of all
+Sun, 29 Jul 2018 05:10:05 GMT: Spotify found 10 search results.
 ****************************
-Fri, 27 Jul 2018 08:24:36 GMT: Artists: Jeremih
-Fri, 27 Jul 2018 08:24:36 GMT: Album name: The Light
-Fri, 27 Jul 2018 08:24:36 GMT: Song name: The Light
-Fri, 27 Jul 2018 08:24:36 GMT: Preview link: null
-Fri, 27 Jul 2018 08:24:36 GMT: Artists: Ty Dolla $ign
-Fri, 27 Jul 2018 08:24:36 GMT: Album name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-Fri, 27 Jul 2018 08:24:36 GMT: Song name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-Fri, 27 Jul 2018 08:24:36 GMT: Preview link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:24:36 GMT: Artists: Harry Styles
-Fri, 27 Jul 2018 08:24:36 GMT: Album name: Harry Styles
-Fri, 27 Jul 2018 08:24:36 GMT: Song name: Sign of the Times
-Fri, 27 Jul 2018 08:24:36 GMT: Preview link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:24:36 GMT: Artists: Ty Dolla $ign
-Fri, 27 Jul 2018 08:24:36 GMT: Album name: Beach House 3
-Fri, 27 Jul 2018 08:24:36 GMT: Song name: Love U Better (feat. Lil Wayne & The-Dream)
-Fri, 27 Jul 2018 08:24:36 GMT: Preview link: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:24:36 GMT: Artists: Harry Styles
-Fri, 27 Jul 2018 08:24:36 GMT: Album name: Sign of the Times
-Fri, 27 Jul 2018 08:24:36 GMT: Song name: Sign of the Times
-Fri, 27 Jul 2018 08:24:36 GMT: Preview link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:24:52 GMT: Command: spotify-this-song
-Fri, 27 Jul 2018 08:24:52 GMT: 
-****************************
-Spotify! Search this => asofuqlwer
-Fri, 27 Jul 2018 08:24:53 GMT: Oops!  Spotify cannot find your song.  Please try again.
-Fri, 27 Jul 2018 08:25:04 GMT: Command: spotify-this-song
-Fri, 27 Jul 2018 08:25:04 GMT: 
-****************************
-Spotify! Search this => Love me Tender
-Fri, 27 Jul 2018 08:25:05 GMT: Spotify found 5 search results.
-****************************
-Fri, 27 Jul 2018 08:25:05 GMT: Artists: Elvis Presley
-Fri, 27 Jul 2018 08:25:05 GMT: Album name: If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra
-Fri, 27 Jul 2018 08:25:05 GMT: Song name: Love Me Tender
-Fri, 27 Jul 2018 08:25:05 GMT: Preview link: https://p.scdn.co/mp3-preview/3ae359d1ccc57e963caa86915c16a690d68d94e9?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:25:05 GMT: Artists: Elvis Presley
-Fri, 27 Jul 2018 08:25:05 GMT: Album name: Elvis' Golden Records
-Fri, 27 Jul 2018 08:25:05 GMT: Song name: Love Me Tender - From the 20th Century-Fox CinemaScope Production, "Love Me Tender"
-Fri, 27 Jul 2018 08:25:05 GMT: Preview link: https://p.scdn.co/mp3-preview/c81e542efe1fc3d88209b339b3494dbeb7d6d1ef?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:25:05 GMT: Artists: Fred Mollin
-Fri, 27 Jul 2018 08:25:05 GMT: Album name: Disney's Lullaby Album Vol. 2
-Fri, 27 Jul 2018 08:25:05 GMT: Song name: Love Me Tender - Instrumental
-Fri, 27 Jul 2018 08:25:05 GMT: Preview link: null
-Fri, 27 Jul 2018 08:25:05 GMT: Artists: Various Artists
-Fri, 27 Jul 2018 08:25:05 GMT: Album name: The Princess Diaries 2: Royal Engagement
-Fri, 27 Jul 2018 08:25:05 GMT: Song name: Love Me Tender
-Fri, 27 Jul 2018 08:25:05 GMT: Preview link: null
-Fri, 27 Jul 2018 08:25:05 GMT: Artists: EXO
-Fri, 27 Jul 2018 08:25:05 GMT: Album name: LOVE ME RIGHT - The 2nd Album Repackage
-Fri, 27 Jul 2018 08:25:05 GMT: Song name: TENDER LOVE
-Fri, 27 Jul 2018 08:25:05 GMT: Preview link: https://p.scdn.co/mp3-preview/8c15fff20ee0804415bc48be925c7ed638ffacb1?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:25:14 GMT: Command: my-tweets
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Wed Jul 25 23:17:21 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: @nodejs I see you've decided to go green ;)
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Wed Jul 25 18:33:06 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: Put out some more #sfnode stickers at the @nodejs booth at #nodesummit Kudos to @ladyleet for the awesome design https://t.co/YkJtrjXfFt
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Wed Jul 25 00:37:14 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: Here are the slides from my #NodeSummit presentation on the optimization of @nodejs services in @awscloud that we'v… https://t.co/k9CdaAfrue
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Wed Jul 25 00:25:25 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: #Mentorship is about exchanging advice &amp; expertise -@patriciarealini It’s listening -@Tzmanics It’s volunteering &amp;… https://t.co/BzT5EQds4R
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Wed Jul 25 00:23:47 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: I love being able to spend more time and conversations in person with my @nodejs fam 🤗 
-
-thx @jasnell for being on… https://t.co/R5Cmcwn3KF
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Wed Jul 25 00:06:41 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: "A rising tie raises all boats" @patriciarealini talking about the importance of enabling minorities in our communities #NodeSummit
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 23:48:08 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: @nodejs @NodeSummit @ladyleet Looks like opou upside down :)
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 23:36:45 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: Taranveer from #IBM talks about extensible frameworks @NodeSummit on day 1 https://t.co/BUjqEmQs4c
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 23:34:39 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: @jasnell Eagerly waiting to watch the videos when they're posted online.
-I couldn't find @NodeSummit channel on You… https://t.co/BajPnLat6o
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 23:31:10 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: "We need to communicate carefully and have empathy..."
-
-"...we should be building a better team where their contrib… https://t.co/NUKskzX7lY
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 22:19:09 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: My article explaining how to use a @StdLibHQ webscraper with css selectors made it to the Top 10 @nodejs articles f… https://t.co/hXidus37Rx
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 22:07:17 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: Shoutout to @benmvp for getting us on our feet @NodeSummit for 10 squats after lunch! #NodeSummit #LegDay @nodejs 😅… https://t.co/GTkmc8Sk4I
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 22:06:58 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: Right now at @NodeSummit: @thlorenz on stage discussing the recent @v8js improvements in @nodejs thanks to the migr… https://t.co/kARaYmosB9
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 21:57:25 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: @melbarduzzi @nodejs Tu pode conferir se ele tá chamando no terminal bonitinho só escreveno lá node --version
-Se re… https://t.co/gFbEx7eX2h
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 21:13:12 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: We are at #NodeSummit and have shirts for you! Come find us to get some legendary swag! 🐙@nodejs @NodeSummit https://t.co/LpRm64yqcF
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 21:10:09 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: 🔍 Gain insight into the performance and security of your @nodejs applications with N|Solid by @NodeSource, and take… https://t.co/j5xgYXZ9GA
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 20:57:05 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: Great call out by @YunongX and @AhmadNassri that it's time for companies that heavily leverage @nodejs to contribut… https://t.co/ZMk2ZbWDMf
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 20:21:19 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: @SaraStamas @ButenkoMe @NodeSummit @GitKraken @nodegirls @nodejs A bunch of our amazing co-orgs! @ReenaRajani… https://t.co/BMSRYzjZOl
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 20:20:20 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: "If you want to shave off a quarter of a ms of your request, don't use node." Performance benchmarks are too simple… https://t.co/DubKsINlxV
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 20:11:45 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: @eranhammer said "No Slides, ill build a set" 😁❤
-@NodeSummit this could be a trend, i heartily support. @nodejs… https://t.co/lIfIZf6rXg
-Fri, 27 Jul 2018 08:25:15 GMT:   * Created at: Tue Jul 24 20:04:12 +0000 2018
-Fri, 27 Jul 2018 08:25:15 GMT:   * Tweeted: @ladyleet @Tzmanics @nodejs @NodeSummit @vanessayuenn @patriciarealini @ButenkoMe So much awesome in one photo 😍 Ho… https://t.co/J4HjnClHNH
-Fri, 27 Jul 2018 08:25:24 GMT: Command: movie-this
-Fri, 27 Jul 2018 08:25:24 GMT: Movie: Teen Titan
-Fri, 27 Jul 2018 08:25:24 GMT: Aw snap!  We cannot locate your movie.  Please try again...
-Fri, 27 Jul 2018 08:25:41 GMT: Command: movie-this
-Fri, 27 Jul 2018 08:25:41 GMT: Movie: Happy Feet
-Fri, 27 Jul 2018 08:25:42 GMT:   * Rotten Tomatoes Rating of the movie: 75%
-Fri, 27 Jul 2018 08:25:42 GMT:   * Country where the movie was produced: USA, Australia
-Fri, 27 Jul 2018 08:25:42 GMT:   * Language of the movie: English
-Fri, 27 Jul 2018 08:25:42 GMT:   * Plot of the movie: Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!
-Fri, 27 Jul 2018 08:25:42 GMT:   * Actors in the movie: Carlos Alazraqui, Lombardo Boyar, Jeffrey Garcia, Johnny A. Sanchez
-Fri, 27 Jul 2018 08:25:56 GMT: Command: do-what-it-says
-Fri, 27 Jul 2018 08:25:56 GMT: Command: spotify-this-song
-Fri, 27 Jul 2018 08:25:56 GMT: 
-****************************
-Spotify! Search this => "I Want it That Way"
-Fri, 27 Jul 2018 08:25:57 GMT: Spotify found 5 search results.
-****************************
-Fri, 27 Jul 2018 08:25:57 GMT: Artists: Backstreet Boys
-Fri, 27 Jul 2018 08:25:57 GMT: Album name: The Hits--Chapter One
-Fri, 27 Jul 2018 08:25:57 GMT: Song name: I Want It That Way
-Fri, 27 Jul 2018 08:25:57 GMT: Preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:25:57 GMT: Artists: Backstreet Boys
-Fri, 27 Jul 2018 08:25:57 GMT: Album name: Millennium
-Fri, 27 Jul 2018 08:25:57 GMT: Song name: I Want It That Way
-Fri, 27 Jul 2018 08:25:57 GMT: Preview link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:25:57 GMT: Artists: Backstreet Boys
-Fri, 27 Jul 2018 08:25:57 GMT: Album name: The Essential Backstreet Boys
-Fri, 27 Jul 2018 08:25:57 GMT: Song name: I Want It That Way
-Fri, 27 Jul 2018 08:25:57 GMT: Preview link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:25:57 GMT: Artists: Anthem Lights
-Fri, 27 Jul 2018 08:25:57 GMT: Album name: Covers Part IV
-Fri, 27 Jul 2018 08:25:57 GMT: Song name: I Want It That Way
-Fri, 27 Jul 2018 08:25:57 GMT: Preview link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=13afa09b9bd446058e86faa426db07b6
-Fri, 27 Jul 2018 08:25:57 GMT: Artists: Manuel Costa
-Fri, 27 Jul 2018 08:25:57 GMT: Album name: I Want It That Way
-Fri, 27 Jul 2018 08:25:57 GMT: Song name: I Want It That Way
-Fri, 27 Jul 2018 08:25:57 GMT: Preview link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 16:55:56 GMT: Command: movie-this
-Sat, 28 Jul 2018 16:55:56 GMT: Movie: dogs and cats
-Sat, 28 Jul 2018 16:55:56 GMT:   * Rotten Tomatoes Rating of the movie: N/A
-Sat, 28 Jul 2018 16:55:56 GMT:   * Country where the movie was produced: France
-Sat, 28 Jul 2018 16:55:56 GMT:   * Language of the movie: French
-Sat, 28 Jul 2018 16:55:56 GMT:   * Plot of the movie: N/A
-Sat, 28 Jul 2018 16:55:56 GMT:   * Actors in the movie: N/A
-Sat, 28 Jul 2018 16:56:43 GMT: Command: movie-this
-Sat, 28 Jul 2018 16:56:43 GMT: Movie: rush hour
-Sat, 28 Jul 2018 16:56:43 GMT:   * Rotten Tomatoes Rating of the movie: 60%
-Sat, 28 Jul 2018 16:56:43 GMT:   * Country where the movie was produced: USA
-Sat, 28 Jul 2018 16:56:43 GMT:   * Language of the movie: English, Cantonese, Mandarin
-Sat, 28 Jul 2018 16:56:43 GMT:   * Plot of the movie: A loyal and dedicated Hong Kong inspector teams up with a reckless and loudmouthed LAPD detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.
-Sat, 28 Jul 2018 16:56:43 GMT:   * Actors in the movie: Ken Leung, Jackie Chan, Tom Wilkinson, Tzi Ma
-Sat, 28 Jul 2018 17:01:04 GMT: Command: do-what-it-says
-Sat, 28 Jul 2018 17:01:04 GMT: Command: movie-this
-Sat, 28 Jul 2018 17:01:04 GMT: Movie: "all dogs go to heaven"
-Sat, 28 Jul 2018 17:01:04 GMT:   * Rotten Tomatoes Rating of the movie: 55%
-Sat, 28 Jul 2018 17:01:04 GMT:   * Country where the movie was produced: Ireland, UK, USA, France
-Sat, 28 Jul 2018 17:01:04 GMT:   * Language of the movie: English
-Sat, 28 Jul 2018 17:01:04 GMT:   * Plot of the movie: A dog returns from the dead looking for revenge on his killer using an orphan girl who can talk to animals.
-Sat, 28 Jul 2018 17:01:04 GMT:   * Actors in the movie: Burt Reynolds, Dom DeLuise, Judith Barsi, Melba Moore
-Sat, 28 Jul 2018 17:02:29 GMT: Command: movie-this
-Sat, 28 Jul 2018 17:02:29 GMT: Movie: The Truth About Cats and Dogs
-Sat, 28 Jul 2018 17:02:29 GMT: Aw snap!  We cannot locate your movie.  Please try again...
-Sat, 28 Jul 2018 17:02:48 GMT: Command: spotify-this
-Sat, 28 Jul 2018 17:02:48 GMT: Please choose from one of the following commands: my-tweets, do-what-it-says, spotify-this-song, or movie-this.
-Sat, 28 Jul 2018 17:03:00 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 17:03:00 GMT: 
-****************************
-Spotify! Search this => funky town
-Sat, 28 Jul 2018 17:03:01 GMT: Spotify found 5 search results.
-****************************
-Sat, 28 Jul 2018 17:03:01 GMT: Artists: Various Artists
-Sat, 28 Jul 2018 17:03:01 GMT: Album name: Paradas Continuas
-Sat, 28 Jul 2018 17:03:01 GMT: Song name: Funky Town
-Sat, 28 Jul 2018 17:03:01 GMT: Preview link: https://p.scdn.co/mp3-preview/7378227189ebb06cc3bf9fdc99bfc6490843de9d?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 17:03:01 GMT: Artists: Various Artists
-Sat, 28 Jul 2018 17:03:01 GMT: Album name: Radio Hits Of the '80s
-Sat, 28 Jul 2018 17:03:01 GMT: Song name: Funky Town
-Sat, 28 Jul 2018 17:03:01 GMT: Preview link: https://p.scdn.co/mp3-preview/ffd43e68decc8cd38685ec707d725df7235f2c53?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 17:03:01 GMT: Artists: T-ara
-Sat, 28 Jul 2018 17:03:01 GMT: Album name: Funky Town
-Sat, 28 Jul 2018 17:03:01 GMT: Song name: Lovey-Dovey
-Sat, 28 Jul 2018 17:03:01 GMT: Preview link: https://p.scdn.co/mp3-preview/8cd4b01a293d60ba87cbe9e35b1e5ac611f9e635?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 17:03:01 GMT: Artists: T-ara
-Sat, 28 Jul 2018 17:03:01 GMT: Album name: Funky Town
-Sat, 28 Jul 2018 17:03:01 GMT: Song name: Cry Cry
-Sat, 28 Jul 2018 17:03:01 GMT: Preview link: https://p.scdn.co/mp3-preview/ce597cd1f584742e76bd293e787d1ee667b6b541?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 17:03:01 GMT: Artists: T-ara
-Sat, 28 Jul 2018 17:03:01 GMT: Album name: Funky Town
-Sat, 28 Jul 2018 17:03:01 GMT: Song name: 우리 사랑했잖아
-Sat, 28 Jul 2018 17:03:01 GMT: Preview link: https://p.scdn.co/mp3-preview/3c2dcf70ccc2462345e4c480a04421ef6020322a?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 17:41:28 GMT: Command: do-what-it-says
-Sat, 28 Jul 2018 17:41:28 GMT: Command: movie-this
-Sat, 28 Jul 2018 17:41:28 GMT: Movie: "all dogs go to heaven"
-Sat, 28 Jul 2018 17:41:28 GMT:   * Rotten Tomatoes Rating of the movie: 55%
-Sat, 28 Jul 2018 17:41:29 GMT:   * Country where the movie was produced: Ireland, UK, USA, France
-Sat, 28 Jul 2018 17:41:29 GMT:   * Language of the movie: English
-Sat, 28 Jul 2018 17:41:29 GMT:   * Plot of the movie: A dog returns from the dead looking for revenge on his killer using an orphan girl who can talk to animals.
-Sat, 28 Jul 2018 17:41:29 GMT:   * Actors in the movie: Burt Reynolds, Dom DeLuise, Judith Barsi, Melba Moore
-Sat, 28 Jul 2018 17:41:46 GMT: Command: do-what-it-says
-Sat, 28 Jul 2018 17:41:46 GMT: Command: mytweets
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Fri Jul 27 17:11:38 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: Hey, everyone working on @nodejs core tests and continuous integration! Congratulations on a full week of node-dail… https://t.co/a08f0KFZh0
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Wed Jul 25 23:17:21 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: @nodejs I see you've decided to go green ;)
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Wed Jul 25 18:33:06 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: Put out some more #sfnode stickers at the @nodejs booth at #nodesummit Kudos to @ladyleet for the awesome design https://t.co/YkJtrjXfFt
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Wed Jul 25 00:37:14 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: Here are the slides from my #NodeSummit presentation on the optimization of @nodejs services in @awscloud that we'v… https://t.co/k9CdaAfrue
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Wed Jul 25 00:25:25 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: #Mentorship is about exchanging advice &amp; expertise -@patriciarealini It’s listening -@Tzmanics It’s volunteering &amp;… https://t.co/BzT5EQds4R
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Wed Jul 25 00:23:47 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: I love being able to spend more time and conversations in person with my @nodejs fam 🤗 
-
-thx @jasnell for being on… https://t.co/R5Cmcwn3KF
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Wed Jul 25 00:06:41 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: "A rising tie raises all boats" @patriciarealini talking about the importance of enabling minorities in our communities #NodeSummit
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 23:48:08 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: @nodejs @NodeSummit @ladyleet Looks like opou upside down :)
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 23:36:45 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: Taranveer from #IBM talks about extensible frameworks @NodeSummit on day 1 https://t.co/BUjqEmQs4c
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 23:34:39 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: @jasnell Eagerly waiting to watch the videos when they're posted online.
-I couldn't find @NodeSummit channel on You… https://t.co/BajPnLat6o
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 23:31:10 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: "We need to communicate carefully and have empathy..."
-
-"...we should be building a better team where their contrib… https://t.co/NUKskzX7lY
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 22:19:09 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: My article explaining how to use a @StdLibHQ webscraper with css selectors made it to the Top 10 @nodejs articles f… https://t.co/hXidus37Rx
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 22:07:17 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: Shoutout to @benmvp for getting us on our feet @NodeSummit for 10 squats after lunch! #NodeSummit #LegDay @nodejs 😅… https://t.co/GTkmc8Sk4I
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 22:06:58 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: Right now at @NodeSummit: @thlorenz on stage discussing the recent @v8js improvements in @nodejs thanks to the migr… https://t.co/kARaYmosB9
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 21:57:25 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: @melbarduzzi @nodejs Tu pode conferir se ele tá chamando no terminal bonitinho só escreveno lá node --version
-Se re… https://t.co/gFbEx7eX2h
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 21:13:12 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: We are at #NodeSummit and have shirts for you! Come find us to get some legendary swag! 🐙@nodejs @NodeSummit https://t.co/LpRm64yqcF
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 21:10:09 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: 🔍 Gain insight into the performance and security of your @nodejs applications with N|Solid by @NodeSource, and take… https://t.co/j5xgYXZ9GA
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 20:57:05 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: Great call out by @YunongX and @AhmadNassri that it's time for companies that heavily leverage @nodejs to contribut… https://t.co/ZMk2ZbWDMf
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 20:21:19 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: @SaraStamas @ButenkoMe @NodeSummit @GitKraken @nodegirls @nodejs A bunch of our amazing co-orgs! @ReenaRajani… https://t.co/BMSRYzjZOl
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 20:20:20 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: "If you want to shave off a quarter of a ms of your request, don't use node." Performance benchmarks are too simple… https://t.co/DubKsINlxV
-Sat, 28 Jul 2018 17:41:47 GMT:   * Created at: Tue Jul 24 20:11:45 +0000 2018
-Sat, 28 Jul 2018 17:41:47 GMT:   * Tweeted: @eranhammer said "No Slides, ill build a set" 😁❤
-@NodeSummit this could be a trend, i heartily support. @nodejs… https://t.co/lIfIZf6rXg
-Sat, 28 Jul 2018 21:42:04 GMT: Command: movie-this
-Sat, 28 Jul 2018 21:42:04 GMT: Movie: park
-Sat, 28 Jul 2018 21:42:05 GMT:   * Rotten Tomatoes Rating of the movie: 36%
-Sat, 28 Jul 2018 21:42:05 GMT:   * Country where the movie was produced: USA
-Sat, 28 Jul 2018 21:42:05 GMT:   * Language of the movie: English
-Sat, 28 Jul 2018 21:42:05 GMT:   * Plot of the movie: Park takes place all in one day in a public park in Los Angeles, as 11 disaffected Angelenos find both love and loss in unexpected ways.
-Sat, 28 Jul 2018 21:42:05 GMT:   * Actors in the movie: Dagney Kerr, Tank, Vincent Riverside, Ian Shelley
-Sat, 28 Jul 2018 21:47:55 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 21:47:55 GMT: 
-****************************
-Spotify! Search this => love me tender
-Sat, 28 Jul 2018 21:47:57 GMT: Spotify found 5 search results.
-****************************
-Sat, 28 Jul 2018 21:47:57 GMT: Artists: Elvis Presley
-Sat, 28 Jul 2018 21:47:57 GMT: Album name: If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra
-Sat, 28 Jul 2018 21:47:57 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:47:57 GMT: Preview link: https://p.scdn.co/mp3-preview/3ae359d1ccc57e963caa86915c16a690d68d94e9?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:47:57 GMT: Artists: Elvis Presley
-Sat, 28 Jul 2018 21:47:57 GMT: Album name: Elvis' Golden Records
-Sat, 28 Jul 2018 21:47:57 GMT: Song name: Love Me Tender - From the 20th Century-Fox CinemaScope Production, "Love Me Tender"
-Sat, 28 Jul 2018 21:47:57 GMT: Preview link: https://p.scdn.co/mp3-preview/c81e542efe1fc3d88209b339b3494dbeb7d6d1ef?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:47:57 GMT: Artists: Fred Mollin
-Sat, 28 Jul 2018 21:47:57 GMT: Album name: Disney's Lullaby Album Vol. 2
-Sat, 28 Jul 2018 21:47:57 GMT: Song name: Love Me Tender - Instrumental
-Sat, 28 Jul 2018 21:47:57 GMT: Preview link: null
-Sat, 28 Jul 2018 21:47:57 GMT: Artists: Various Artists
-Sat, 28 Jul 2018 21:47:57 GMT: Album name: The Princess Diaries 2: Royal Engagement
-Sat, 28 Jul 2018 21:47:57 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:47:57 GMT: Preview link: null
-Sat, 28 Jul 2018 21:47:57 GMT: Artists: EXO
-Sat, 28 Jul 2018 21:47:57 GMT: Album name: LOVE ME RIGHT - The 2nd Album Repackage
-Sat, 28 Jul 2018 21:47:57 GMT: Song name: TENDER LOVE
-Sat, 28 Jul 2018 21:47:57 GMT: Preview link: https://p.scdn.co/mp3-preview/8c15fff20ee0804415bc48be925c7ed638ffacb1?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:48:59 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 21:48:59 GMT: 
-****************************
-Spotify! Search this => greatest love of all
-Sat, 28 Jul 2018 21:49:00 GMT: Spotify found 5 search results.
-****************************
-Sat, 28 Jul 2018 21:49:00 GMT: Artists: Whitney Houston
-Sat, 28 Jul 2018 21:49:00 GMT: Album name: Whitney Houston
-Sat, 28 Jul 2018 21:49:00 GMT: Song name: Greatest Love Of All
-Sat, 28 Jul 2018 21:49:00 GMT: Preview link: https://p.scdn.co/mp3-preview/12144a766d983ea0484b29e7c43e70c4ccf535c3?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:49:00 GMT: Artists: Whitney Houston
-Sat, 28 Jul 2018 21:49:00 GMT: Album name: Whitney Houston (The Deluxe Anniversary Edition)
-Sat, 28 Jul 2018 21:49:00 GMT: Song name: Greatest Love Of All
-Sat, 28 Jul 2018 21:49:00 GMT: Preview link: https://p.scdn.co/mp3-preview/69439210efe332abff386d0074d9434553ade210?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:49:00 GMT: Artists: Santana
-Sat, 28 Jul 2018 21:49:00 GMT: Album name: Guitar Heaven: The Greatest Guitar Classics Of All Time (Deluxe Version)
-Sat, 28 Jul 2018 21:49:00 GMT: Song name: Whole Lotta Love
-Sat, 28 Jul 2018 21:49:00 GMT: Preview link: https://p.scdn.co/mp3-preview/c07038554fec209e7dedf1c8c70e7b019f2fbd5f?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:49:00 GMT: Artists: Björk
-Sat, 28 Jul 2018 21:49:00 GMT: Album name: Greatest Hits
-Sat, 28 Jul 2018 21:49:00 GMT: Song name: All Is Full Of Love
-Sat, 28 Jul 2018 21:49:00 GMT: Preview link: https://p.scdn.co/mp3-preview/b10eb87ca263eb27027dde7c449dd747ae92459f?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:49:00 GMT: Artists: Whitney Houston
-Sat, 28 Jul 2018 21:49:00 GMT: Album name: I Will Always Love You: The Best Of Whitney Houston
-Sat, 28 Jul 2018 21:49:00 GMT: Song name: Greatest Love Of All
-Sat, 28 Jul 2018 21:49:00 GMT: Preview link: https://p.scdn.co/mp3-preview/c5da886debbc89b30529df6e1c9ad9b316589e61?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:49:14 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 21:49:14 GMT: 
-****************************
-Spotify! Search this => oasdiuf
-Sat, 28 Jul 2018 21:49:15 GMT: Oops!  Spotify cannot find your song.  Please try again.
-Sat, 28 Jul 2018 21:50:53 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 21:50:53 GMT: 
-****************************
-Spotify! Search this => lvoe
-Sat, 28 Jul 2018 21:50:53 GMT: Spotify found 5 search results.
-****************************
-Sat, 28 Jul 2018 21:50:53 GMT: Artists: Mujuice
-Sat, 28 Jul 2018 21:50:53 GMT: Album name: LVOE
-Sat, 28 Jul 2018 21:50:53 GMT: Song name: Sleeping Pills
-Sat, 28 Jul 2018 21:50:53 GMT: Preview link: https://p.scdn.co/mp3-preview/f5a488c76169019e9e4181de76f3bdade7b6ce37?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:50:53 GMT: Artists: Mujuice
-Sat, 28 Jul 2018 21:50:53 GMT: Album name: LVOE
-Sat, 28 Jul 2018 21:50:53 GMT: Song name: Croisé
-Sat, 28 Jul 2018 21:50:53 GMT: Preview link: https://p.scdn.co/mp3-preview/a264e8cc5a3fe5d2679bda04354230bebb5cc0d0?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:50:53 GMT: Artists: Mujuice
-Sat, 28 Jul 2018 21:50:53 GMT: Album name: LVOE
-Sat, 28 Jul 2018 21:50:53 GMT: Song name: Here I Dance
-Sat, 28 Jul 2018 21:50:53 GMT: Preview link: https://p.scdn.co/mp3-preview/0a4f46766f7a5d8058cd3d1ca83fbda25ae05e96?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:50:53 GMT: Artists: Mujuice
-Sat, 28 Jul 2018 21:50:53 GMT: Album name: LVOE
-Sat, 28 Jul 2018 21:50:53 GMT: Song name: Грустные глаза
-Sat, 28 Jul 2018 21:50:53 GMT: Preview link: https://p.scdn.co/mp3-preview/c3de3a512c9c99de3a91b80a2b0a3833a0fc62a7?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:50:53 GMT: Artists: Mujuice
-Sat, 28 Jul 2018 21:50:53 GMT: Album name: LVOE
-Sat, 28 Jul 2018 21:50:53 GMT: Song name: Wish You Were Here
-Sat, 28 Jul 2018 21:50:53 GMT: Preview link: https://p.scdn.co/mp3-preview/822507929d1d0fca8bf0986fe58efd746a4e65a8?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:51:38 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 21:51:38 GMT: 
-****************************
-Spotify! Search this => love
-Sat, 28 Jul 2018 21:51:40 GMT: Spotify found 5 search results.
-****************************
-Sat, 28 Jul 2018 21:51:40 GMT: Artists: Khalid
-Sat, 28 Jul 2018 21:51:40 GMT: Album name: Love Lies (with Normani)
-Sat, 28 Jul 2018 21:51:40 GMT: Song name: Love Lies (with Normani)
-Sat, 28 Jul 2018 21:51:40 GMT: Preview link: https://p.scdn.co/mp3-preview/d53d5678b946219bd6df0b3d04ce0b3554f167d4?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:51:40 GMT: Artists: BTS
-Sat, 28 Jul 2018 21:51:40 GMT: Album name: Love Yourself 轉 'Tear'
-Sat, 28 Jul 2018 21:51:40 GMT: Song name: FAKE LOVE
-Sat, 28 Jul 2018 21:51:40 GMT: Preview link: https://p.scdn.co/mp3-preview/bc24526c6a5e4d2a63bdbf364705a6012ff2d649?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:51:40 GMT: Artists: XXXTENTACION
-Sat, 28 Jul 2018 21:51:40 GMT: Album name: 17
-Sat, 28 Jul 2018 21:51:40 GMT: Song name: Fuck Love (feat. Trippie Redd)
-Sat, 28 Jul 2018 21:51:40 GMT: Preview link: https://p.scdn.co/mp3-preview/a6bbae399c7e05f8b3987c3e293e544690e796ce?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:51:40 GMT: Artists: The Carters
-Sat, 28 Jul 2018 21:51:40 GMT: Album name: EVERYTHING IS LOVE
-Sat, 28 Jul 2018 21:51:40 GMT: Song name: APESHIT
-Sat, 28 Jul 2018 21:51:40 GMT: Preview link: null
-Sat, 28 Jul 2018 21:51:40 GMT: Artists: Trippie Redd
-Sat, 28 Jul 2018 21:51:40 GMT: Album name: A Love Letter To You
-Sat, 28 Jul 2018 21:51:40 GMT: Song name: Love Scars
-Sat, 28 Jul 2018 21:51:40 GMT: Preview link: null
-Sat, 28 Jul 2018 21:54:44 GMT: Command: movie-this
-Sat, 28 Jul 2018 21:54:44 GMT: Movie: little mermaid
-Sat, 28 Jul 2018 21:54:45 GMT:   * Rotten Tomatoes Rating of the movie: N/A
-Sat, 28 Jul 2018 21:54:45 GMT:   * Country where the movie was produced: USA
-Sat, 28 Jul 2018 21:54:45 GMT:   * Language of the movie: English
-Sat, 28 Jul 2018 21:54:45 GMT:   * Plot of the movie: Based off of the tale by Hans Christian Andersen, Little Mermaid tells the story of a young mermaid leaving the sea for a human she thinks that she knows. Everything isn't as it seemed and she must face the harsh realities of the world.
-Sat, 28 Jul 2018 21:54:45 GMT:   * Actors in the movie: Rosie Mac, Matt Martin, Roxie Blum, Erin Marie Garrett
-Sat, 28 Jul 2018 21:55:44 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 21:55:44 GMT: 
-****************************
-Spotify! Search this => ghost story
-Sat, 28 Jul 2018 21:55:45 GMT: Spotify found 10 search results.
-****************************
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: In Love With a Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: gay story
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: something easy
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/cc79b408d5012cacb7a89060c0ee58fb765b551d?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: In Love With a Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: gay story
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: feeling empty because there's no more spaghetti
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/bf2db2dcf6fd48050daba31b139556432ed1b6f7?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: In Love With a Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: gay story
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: popstar love
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/8076560caf4cb2c14cc6789a342a5ed18dee9185?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: In Love With a Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: gay story
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: iced tea for breakfast
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/a0890baf36dceb66ef2f39ad22c43d884cfcd8f1?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: Phish
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: The Story Of The Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/006fd5704d80b93264d677bc01445fccdd36957c?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: In Love With a Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: gay story
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: happy when youre not here
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/239da619b15ebbfbb34299654e68c1f4a6f2fd34?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: In Love With a Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: gay story
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: thinking about u (jk)
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/b27bcae4631cba4f15a28fbfcd97ec3c2acf4b2d?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: In Love With a Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: gay story
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: hyacinth
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/e6fcca31cd5a4dd67dc4fb247fa83bd3b851ff5e?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: Rittz
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: Top of the Line (Deluxe Edition)
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: Ghost Story
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/4faced840f811b33cd02ca278e768ebb3df7ba79?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:55:45 GMT: Artists: Phish
-Sat, 28 Jul 2018 21:55:45 GMT: Album name: The Story Of The Ghost
-Sat, 28 Jul 2018 21:55:45 GMT: Song name: Wading In The Velvet Sea
-Sat, 28 Jul 2018 21:55:45 GMT: Preview link: https://p.scdn.co/mp3-preview/4703c2a6fc215e68bcf25094b047fdb8ec9f87f0?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:33 GMT: Command: do-what-it-says
-Sat, 28 Jul 2018 21:57:33 GMT: Command: spotify-this-song
-Sat, 28 Jul 2018 21:57:33 GMT: 
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Whitney Houston
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: Whitney Houston (The Deluxe Anniversary Edition)
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: Greatest Love Of All
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/69439210efe332abff386d0074d9434553ade210?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Santana
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: Guitar Heaven: The Greatest Guitar Classics Of All Time (Deluxe Version)
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: Whole Lotta Love
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/c07038554fec209e7dedf1c8c70e7b019f2fbd5f?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Whitney Houston
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: I Will Always Love You: The Best Of Whitney Houston
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: Greatest Love Of All
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/c5da886debbc89b30529df6e1c9ad9b316589e61?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Barry Manilow
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: The Greatest Love Songs Of All Time
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: Where Do I Begin? (Theme from "Love Story")
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/a6174d6b86601cece4da6e09869c243e2a5e29ce?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Whitney Houston
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: Whitney The Greatest Hits
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: Greatest Love Of All
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/dbf9a1587489b0c992176b17e0f400edcc2cb714?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Santana
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: Guitar Heaven: The Greatest Guitar Classics Of All Time (Deluxe Version)
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: Sunshine Of Your Love
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/d8406acf9d326965169bf5d609a7d93a26827fb7?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Jamie Conway
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: Elegant Piano Romance: The 80's
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: The Greatest Love of All
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/e72fac8de4ca73fe3657bf5d253f632298eb9da6?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Barry Manilow
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: The Greatest Love Songs Of All Time
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: The Look of Love
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/dd7305a3971de572c39638755d840d96aba1aadc?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: George Benson
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: The Ultimate Collection
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: The Greatest Love Of All
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/4619ba6100b04fe430a634704103c19282393583?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:05 GMT: Artists: Barry Manilow
+Sun, 29 Jul 2018 05:10:05 GMT: Album name: The Greatest Love Songs Of All Time
+Sun, 29 Jul 2018 05:10:05 GMT: Song name: Love Is Here to Stay
+Sun, 29 Jul 2018 05:10:05 GMT: Preview link: https://p.scdn.co/mp3-preview/5640d48ad2270384a28114b66ddd2adc95334602?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:30 GMT: Command: movie-this
+Sun, 29 Jul 2018 05:10:30 GMT: Movie: happy feet
+Sun, 29 Jul 2018 05:10:31 GMT:   * Rotten Tomatoes Rating of the movie: 75%
+Sun, 29 Jul 2018 05:10:31 GMT:   * Country where the movie was produced: USA, Australia
+Sun, 29 Jul 2018 05:10:31 GMT:   * Language of the movie: English
+Sun, 29 Jul 2018 05:10:31 GMT:   * Plot of the movie: Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!
+Sun, 29 Jul 2018 05:10:31 GMT:   * Actors in the movie: Carlos Alazraqui, Lombardo Boyar, Jeffrey Garcia, Johnny A. Sanchez
+Sun, 29 Jul 2018 05:10:56 GMT: Command: do-what-it-says
+Sun, 29 Jul 2018 05:10:56 GMT: Command: spotify-this-song
+Sun, 29 Jul 2018 05:10:56 GMT: "Love me tender"
+Sun, 29 Jul 2018 05:10:56 GMT: 
 ****************************
 Spotify! Search this => "Love me tender"
-Sat, 28 Jul 2018 21:57:34 GMT: Spotify found 10 search results.
+Sun, 29 Jul 2018 05:10:57 GMT: Spotify found 10 search results.
 ****************************
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Elvis Presley
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: https://p.scdn.co/mp3-preview/3ae359d1ccc57e963caa86915c16a690d68d94e9?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Elvis Presley
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: Elvis' Golden Records
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender - From the 20th Century-Fox CinemaScope Production, "Love Me Tender"
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: https://p.scdn.co/mp3-preview/c81e542efe1fc3d88209b339b3494dbeb7d6d1ef?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Fred Mollin
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: Disney's Lullaby Album Vol. 2
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender - Instrumental
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: null
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Various Artists
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: The Princess Diaries 2: Royal Engagement
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: null
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Elvis Presley
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: Elvis 30 #1 Hits
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: https://p.scdn.co/mp3-preview/875614dc8bc110626528cd89bc7b79c331af05fc?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Brandon Mills
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: Classics
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: https://p.scdn.co/mp3-preview/3b83d04cc4176ef8b0bff831a655e37e61cb447b?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Elvis Presley
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: The Essential Elvis Presley
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: https://p.scdn.co/mp3-preview/7ae10cad3fd7634f1240863c9e530dc0d3829416?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Andrea Bocelli
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: Love In Portofino (Remastered)
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: null
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Elvis Presley
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: Elvis Forever: The Best of Elvis Presley
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender - From the 20th Century-Fox CinemaScope Production, "Love Me Tender"
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: https://p.scdn.co/mp3-preview/3e827f0ba9536df52a9191332bd5b104423251aa?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:34 GMT: Artists: Richard Clayderman
-Sat, 28 Jul 2018 21:57:34 GMT: Album name: Swinging Pop Hits
-Sat, 28 Jul 2018 21:57:34 GMT: Song name: Love Me Tender
-Sat, 28 Jul 2018 21:57:34 GMT: Preview link: https://p.scdn.co/mp3-preview/725e8ff059fc99cc57f47023fd09882bed580d37?cid=13afa09b9bd446058e86faa426db07b6
-Sat, 28 Jul 2018 21:57:49 GMT: Command: my-tweets
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Fri Jul 27 17:11:38 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: Hey, everyone working on @nodejs core tests and continuous integration! Congratulations on a full week of node-dail… https://t.co/a08f0KFZh0
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Wed Jul 25 23:17:21 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: @nodejs I see you've decided to go green ;)
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Wed Jul 25 18:33:06 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: Put out some more #sfnode stickers at the @nodejs booth at #nodesummit Kudos to @ladyleet for the awesome design https://t.co/YkJtrjXfFt
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Wed Jul 25 00:37:14 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: Here are the slides from my #NodeSummit presentation on the optimization of @nodejs services in @awscloud that we'v… https://t.co/k9CdaAfrue
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Wed Jul 25 00:25:25 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: #Mentorship is about exchanging advice &amp; expertise -@patriciarealini It’s listening -@Tzmanics It’s volunteering &amp;… https://t.co/BzT5EQds4R
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Wed Jul 25 00:23:47 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: I love being able to spend more time and conversations in person with my @nodejs fam 🤗 
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Elvis Presley
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: https://p.scdn.co/mp3-preview/3ae359d1ccc57e963caa86915c16a690d68d94e9?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Elvis Presley
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: Elvis' Golden Records
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender - From the 20th Century-Fox CinemaScope Production, "Love Me Tender"
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: https://p.scdn.co/mp3-preview/c81e542efe1fc3d88209b339b3494dbeb7d6d1ef?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Fred Mollin
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: Disney's Lullaby Album Vol. 2
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender - Instrumental
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: null
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Various Artists
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: The Princess Diaries 2: Royal Engagement
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: null
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Elvis Presley
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: Elvis 30 #1 Hits
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: https://p.scdn.co/mp3-preview/875614dc8bc110626528cd89bc7b79c331af05fc?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Brandon Mills
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: Classics
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: https://p.scdn.co/mp3-preview/3b83d04cc4176ef8b0bff831a655e37e61cb447b?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Elvis Presley
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: The Essential Elvis Presley
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: https://p.scdn.co/mp3-preview/7ae10cad3fd7634f1240863c9e530dc0d3829416?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Andrea Bocelli
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: Love In Portofino (Remastered)
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: null
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Elvis Presley
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: Elvis Forever: The Best of Elvis Presley
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender - From the 20th Century-Fox CinemaScope Production, "Love Me Tender"
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: https://p.scdn.co/mp3-preview/3e827f0ba9536df52a9191332bd5b104423251aa?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:10:57 GMT: Artists: Richard Clayderman
+Sun, 29 Jul 2018 05:10:57 GMT: Album name: Swinging Pop Hits
+Sun, 29 Jul 2018 05:10:57 GMT: Song name: Love Me Tender
+Sun, 29 Jul 2018 05:10:57 GMT: Preview link: https://p.scdn.co/mp3-preview/725e8ff059fc99cc57f47023fd09882bed580d37?cid=13afa09b9bd446058e86faa426db07b6
+Sun, 29 Jul 2018 05:11:06 GMT: Command: mytweets
+Sun, 29 Jul 2018 05:11:06 GMT: Please choose from one of the following commands: my-tweets, do-what-it-says, spotify-this-song, or movie-this.
+Sun, 29 Jul 2018 05:11:12 GMT: Command: my-tweets
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Fri Jul 27 17:11:38 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: Hey, everyone working on @nodejs core tests and continuous integration! Congratulations on a full week of node-dail… https://t.co/a08f0KFZh0
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Wed Jul 25 23:17:21 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: @nodejs I see you've decided to go green ;)
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Wed Jul 25 18:33:06 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: Put out some more #sfnode stickers at the @nodejs booth at #nodesummit Kudos to @ladyleet for the awesome design https://t.co/YkJtrjXfFt
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Wed Jul 25 00:37:14 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: Here are the slides from my #NodeSummit presentation on the optimization of @nodejs services in @awscloud that we'v… https://t.co/k9CdaAfrue
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Wed Jul 25 00:25:25 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: #Mentorship is about exchanging advice &amp; expertise -@patriciarealini It’s listening -@Tzmanics It’s volunteering &amp;… https://t.co/BzT5EQds4R
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Wed Jul 25 00:23:47 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: I love being able to spend more time and conversations in person with my @nodejs fam 🤗 
 
 thx @jasnell for being on… https://t.co/R5Cmcwn3KF
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Wed Jul 25 00:06:41 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: "A rising tie raises all boats" @patriciarealini talking about the importance of enabling minorities in our communities #NodeSummit
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 23:48:08 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: @nodejs @NodeSummit @ladyleet Looks like opou upside down :)
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 23:36:45 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: Taranveer from #IBM talks about extensible frameworks @NodeSummit on day 1 https://t.co/BUjqEmQs4c
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 23:34:39 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: @jasnell Eagerly waiting to watch the videos when they're posted online.
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Wed Jul 25 00:06:41 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: "A rising tie raises all boats" @patriciarealini talking about the importance of enabling minorities in our communities #NodeSummit
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 23:48:08 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: @nodejs @NodeSummit @ladyleet Looks like opou upside down :)
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 23:36:45 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: Taranveer from #IBM talks about extensible frameworks @NodeSummit on day 1 https://t.co/BUjqEmQs4c
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 23:34:39 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: @jasnell Eagerly waiting to watch the videos when they're posted online.
 I couldn't find @NodeSummit channel on You… https://t.co/BajPnLat6o
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 23:31:10 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: "We need to communicate carefully and have empathy..."
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 23:31:10 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: "We need to communicate carefully and have empathy..."
 
 "...we should be building a better team where their contrib… https://t.co/NUKskzX7lY
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 22:19:09 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: My article explaining how to use a @StdLibHQ webscraper with css selectors made it to the Top 10 @nodejs articles f… https://t.co/hXidus37Rx
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 22:07:17 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: Shoutout to @benmvp for getting us on our feet @NodeSummit for 10 squats after lunch! #NodeSummit #LegDay @nodejs 😅… https://t.co/GTkmc8Sk4I
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 22:06:58 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: Right now at @NodeSummit: @thlorenz on stage discussing the recent @v8js improvements in @nodejs thanks to the migr… https://t.co/kARaYmosB9
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 21:57:25 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: @melbarduzzi @nodejs Tu pode conferir se ele tá chamando no terminal bonitinho só escreveno lá node --version
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 22:19:09 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: My article explaining how to use a @StdLibHQ webscraper with css selectors made it to the Top 10 @nodejs articles f… https://t.co/hXidus37Rx
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 22:07:17 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: Shoutout to @benmvp for getting us on our feet @NodeSummit for 10 squats after lunch! #NodeSummit #LegDay @nodejs 😅… https://t.co/GTkmc8Sk4I
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 22:06:58 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: Right now at @NodeSummit: @thlorenz on stage discussing the recent @v8js improvements in @nodejs thanks to the migr… https://t.co/kARaYmosB9
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 21:57:25 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: @melbarduzzi @nodejs Tu pode conferir se ele tá chamando no terminal bonitinho só escreveno lá node --version
 Se re… https://t.co/gFbEx7eX2h
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 21:13:12 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: We are at #NodeSummit and have shirts for you! Come find us to get some legendary swag! 🐙@nodejs @NodeSummit https://t.co/LpRm64yqcF
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 21:10:09 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: 🔍 Gain insight into the performance and security of your @nodejs applications with N|Solid by @NodeSource, and take… https://t.co/j5xgYXZ9GA
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 20:57:05 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: Great call out by @YunongX and @AhmadNassri that it's time for companies that heavily leverage @nodejs to contribut… https://t.co/ZMk2ZbWDMf
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 20:21:19 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: @SaraStamas @ButenkoMe @NodeSummit @GitKraken @nodegirls @nodejs A bunch of our amazing co-orgs! @ReenaRajani… https://t.co/BMSRYzjZOl
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 20:20:20 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: "If you want to shave off a quarter of a ms of your request, don't use node." Performance benchmarks are too simple… https://t.co/DubKsINlxV
-Sat, 28 Jul 2018 21:57:50 GMT:   * Created at: Tue Jul 24 20:11:45 +0000 2018
-Sat, 28 Jul 2018 21:57:50 GMT:   * Tweeted: @eranhammer said "No Slides, ill build a set" 😁❤
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 21:13:12 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: We are at #NodeSummit and have shirts for you! Come find us to get some legendary swag! 🐙@nodejs @NodeSummit https://t.co/LpRm64yqcF
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 21:10:09 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: 🔍 Gain insight into the performance and security of your @nodejs applications with N|Solid by @NodeSource, and take… https://t.co/j5xgYXZ9GA
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 20:57:05 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: Great call out by @YunongX and @AhmadNassri that it's time for companies that heavily leverage @nodejs to contribut… https://t.co/ZMk2ZbWDMf
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 20:21:19 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: @SaraStamas @ButenkoMe @NodeSummit @GitKraken @nodegirls @nodejs A bunch of our amazing co-orgs! @ReenaRajani… https://t.co/BMSRYzjZOl
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 20:20:20 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: "If you want to shave off a quarter of a ms of your request, don't use node." Performance benchmarks are too simple… https://t.co/DubKsINlxV
+Sun, 29 Jul 2018 05:11:12 GMT:   * Created at: Tue Jul 24 20:11:45 +0000 2018
+Sun, 29 Jul 2018 05:11:12 GMT:   * Tweeted: @eranhammer said "No Slides, ill build a set" 😁❤
 @NodeSummit this could be a trend, i heartily support. @nodejs… https://t.co/lIfIZf6rXg
+Sun, 29 Jul 2018 05:11:35 GMT: Command: movie-this
+Sun, 29 Jul 2018 05:11:35 GMT: Movie: the truth about cats and dogs
+Sun, 29 Jul 2018 05:11:36 GMT: Aw snap!  We cannot locate your movie.  Please try again...
+Sun, 29 Jul 2018 05:11:48 GMT: Command: spotify-this-song
+Sun, 29 Jul 2018 05:11:48 GMT: weorusoaljfasf
+Sun, 29 Jul 2018 05:11:48 GMT: 
+****************************
+Spotify! Search this => weorusoaljfasf
+Sun, 29 Jul 2018 05:11:49 GMT: Oops!  Spotify cannot find your song.  Please try again.
